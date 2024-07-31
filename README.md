@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 # 💫 About Me:
-Ingeniero Mecatronica y Full Stack Jr-->
+Ingeniero Mecatronica y Full Stack Jr
 
 
 ## 🌐 Socials:
@@ -32,6 +32,6 @@ Ingeniero Mecatronica y Full Stack Jr-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
+-->
 
 
